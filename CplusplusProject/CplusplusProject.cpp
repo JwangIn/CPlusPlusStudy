@@ -1,13 +1,16 @@
 ﻿// CplusplusProject.cpp : 이 파일에는 'main' 함수가 포함됩니다. 거기서 프로그램 실행이 시작되고 종료됩니다.
-//
 
-#include <iostream>
+                      // Input과 Output에 관련된 스트림 함수가 작성된 헤더
+                      // c++ 헤더파일은 .h 없이 사용되고 있다.
+// #include<cstdio>   // c++ 컴파일러로 c헤더 stdio.h를 불러오겠다.
+#include "lectures.h"
 
 int main()
 {
-    std::cout << "Hello World!\n";
-    
+    lecture1();
 }
+
+
 
 // 프로그램 실행: <Ctrl+F5> 또는 [디버그] > [디버깅하지 않고 시작] 메뉴
 // 프로그램 디버그: <F5> 키 또는 [디버그] > [디버깅 시작] 메뉴
