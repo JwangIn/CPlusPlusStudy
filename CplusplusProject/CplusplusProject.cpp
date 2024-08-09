@@ -7,7 +7,8 @@
 
 int main()
 {
-    lecture1();
+    //lecture1();
+    lecture2();
 }
 
 

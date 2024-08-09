@@ -1,0 +1,8 @@
+﻿  lecture2.cpp
+C:\Users\Administrator\Desktop\CPlusPlusStudy\CplusplusProject\lecture2.cpp(111,10): warning C4477: 'scanf_s' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+C:\Users\Administrator\Desktop\CPlusPlusStudy\CplusplusProject\lecture2.cpp(115,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'char *'입니다.
+C:\Users\Administrator\Desktop\CPlusPlusStudy\CplusplusProject\lecture2.cpp(115,9): warning C4313: 'printf': 서식 문자열의 '%d'이(가) char *' 형식의 인수 2과(와) 충돌합니다.
+C:\Users\Administrator\Desktop\CPlusPlusStudy\CplusplusProject\lecture2.cpp(133,6): warning C4101: 'number_of_people' :참조되지 않은 지역 변수입니다.
+C:\Users\Administrator\Desktop\CPlusPlusStudy\CplusplusProject\lecture2.cpp(134,6): warning C4101: 'NumberOfPeople' :참조되지 않은 지역 변수입니다.
+C:\Users\Administrator\Desktop\CPlusPlusStudy\CplusplusProject\lecture2.cpp(61,1): warning C4172: 지역 변수 또는 임시: a의 주소를 반환하고 있습니다.
+  CplusplusProject.vcxproj -> C:\Users\Administrator\Desktop\CPlusPlusStudy\CplusplusProject\x64\Debug\CplusplusProject.exe
