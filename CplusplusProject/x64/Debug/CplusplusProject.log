@@ -1,4 +1,2 @@
-﻿  lecture3.cpp
-C:\Users\Administrator\Desktop\CPlusPlusStudy\CplusplusProject\lecture3.cpp(197,8): warning C4101: 'userinput' :참조되지 않은 지역 변수입니다.
-C:\Users\Administrator\Desktop\CPlusPlusStudy\CplusplusProject\lecture3.cpp(231,8): warning C4101: 'userinput' :참조되지 않은 지역 변수입니다.
+﻿  lecture4.cpp
   CplusplusProject.vcxproj -> C:\Users\Administrator\Desktop\CPlusPlusStudy\CplusplusProject\x64\Debug\CplusplusProject.exe
