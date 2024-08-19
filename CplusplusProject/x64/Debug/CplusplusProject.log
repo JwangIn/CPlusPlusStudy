@@ -1,17 +1,2 @@
-﻿  CplusplusProject.cpp
-  lecture2.cpp
-C:\Users\Administrator\Desktop\CPlusPlusStudy\CplusplusProject\lecture2.cpp(134,6): warning C4101: 'number_of_people' :참조되지 않은 지역 변수입니다.
-C:\Users\Administrator\Desktop\CPlusPlusStudy\CplusplusProject\lecture2.cpp(135,6): warning C4101: 'NumberOfPeople' :참조되지 않은 지역 변수입니다.
-  lecture3.cpp
-C:\Users\Administrator\Desktop\CPlusPlusStudy\CplusplusProject\lecture3.cpp(140,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\Administrator\Desktop\CPlusPlusStudy\CplusplusProject\lecture3.cpp(205,8): warning C4101: 'userinput' :참조되지 않은 지역 변수입니다.
-C:\Users\Administrator\Desktop\CPlusPlusStudy\CplusplusProject\lecture3.cpp(239,8): warning C4101: 'userinput' :참조되지 않은 지역 변수입니다.
-  lecture4.cpp
-  lecture5.cpp
-C:\Users\Administrator\Desktop\CPlusPlusStudy\CplusplusProject\lecture5.cpp(239,21): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\Administrator\Desktop\CPlusPlusStudy\CplusplusProject\lecture5.cpp(240,31): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  lecture6.cpp
-  lectures.cpp
-  코드를 생성하고 있습니다...
-C:\Users\Administrator\Desktop\CPlusPlusStudy\CplusplusProject\lecture2.cpp(61): warning C4172: 지역 변수 또는 임시: a의 주소를 반환하고 있습니다.
+﻿  lecture7.cpp
   CplusplusProject.vcxproj -> C:\Users\Administrator\Desktop\CPlusPlusStudy\CplusplusProject\x64\Debug\CplusplusProject.exe
